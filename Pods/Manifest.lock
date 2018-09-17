@@ -1,0 +1,34 @@
+PODS:
+  - Bugly (2.5.0)
+  - FastCoding (3.3)
+  - Reachability (3.2)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - Toast-Swift (3.0.1)
+
+DEPENDENCIES:
+  - Bugly
+  - FastCoding
+  - Reachability
+  - SDWebImage (~> 4.0)
+  - Toast-Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Bugly
+    - FastCoding
+    - Reachability
+    - SDWebImage
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Bugly: 3ca9f255c01025582df26f9222893b383c7e4b4e
+  FastCoding: 3b590f7143a229780fa744b35084d85d9461587e
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  Toast-Swift: ba0b01b095aada709d915f9beb1d38184a2721c3
+
+PODFILE CHECKSUM: a75a6f0ac99f0faf65dde5e527ce5b6ffc1a8478
+
+COCOAPODS: 1.5.3
